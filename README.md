@@ -1,5 +1,3 @@
-# Robothon 2022
-Repository of Team "Wall-E 3.0"
 ![Robothon 2022 Repository of Team "Wall-E 3.0"](Title_robo.png?raw=true "Title")
 
 # Equipment Used List
