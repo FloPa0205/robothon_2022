@@ -15,6 +15,7 @@ Repository of Team "Wall-E 3.0"
 - Metal Tip (for Hand-Eye-Calibration)
 
 # Software Dependency List
+![Alt text](logos.png?raw=true "Title")
 #### Robot (C++)
 - Ubuntu 18.04
 - Kernel: 5.4.102-rt53
