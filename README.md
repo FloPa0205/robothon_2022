@@ -15,7 +15,7 @@ Repository of Team "Wall-E 3.0"
 - Metal Tip (for Hand-Eye-Calibration)
 
 # Software Dependency List
-![Alt text](logos.png?raw=true "Title")
+![Software Dependency Logos](logos.png?raw=true "Title")
 #### Robot (C++)
 - Ubuntu 18.04
 - Kernel: 5.4.102-rt53
@@ -65,6 +65,7 @@ catkin build
 
 
 ## Initial start-up after building the project
+![Screenshot of Project Running](Project_Running.png?raw=true "Title")
 1. Go to the `./robothon2022/catkin_ws` folder and start a new terminal from there. (Source the *catkin* workspace in **every** new terminal: `source devel/setup.bash`)
 2. To run the robothon script, run:  
 `roslaunch state_machine run_application.launch app:=<name_of_the_application_target> vision:=<boolean> order:=<tasks_to_be_done>`  
