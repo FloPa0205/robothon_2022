@@ -2,6 +2,7 @@
 Repository of Team "Wall-E 3.0"
 
 # Equipment Used List
+![Equipment Images](Equipment_Images.png?raw=true "Title")
 - Franka Emika Panda Robot
 - Intel RealSense D435i
 - Standard PC with Ubuntu 18.04 (no GPU!)
